@@ -19,6 +19,7 @@ package sample.atmosphere;
 public class SampleAtmosphereApplication {
 
 	public static void main(String[] args) throws Exception {
+		// prova
 	}
 
 }
