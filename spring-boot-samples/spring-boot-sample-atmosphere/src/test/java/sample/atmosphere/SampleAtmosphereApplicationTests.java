@@ -24,3 +24,11 @@ public class SampleAtmosphereApplicationTests {
 	public void chatEndpoint() throws Exception {
 	}
 }
+
+public class SampleAtmosphereApplicationTests2 {
+
+	@Test
+	public void chatEndpoint2() throws Exception {
+	}
+}
+
