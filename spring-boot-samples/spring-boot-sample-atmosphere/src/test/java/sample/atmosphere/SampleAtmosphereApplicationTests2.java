@@ -18,9 +18,10 @@ package sample.atmosphere;
 
 import org.junit.Test;
 
-public class SampleAtmosphereApplicationTests {
+public class SampleAtmosphereApplicationTests2 {
 
 	@Test
-	public void chatEndpoint() throws Exception {
+	public void chatEndpoint2() throws Exception {
 	}
 }
+
